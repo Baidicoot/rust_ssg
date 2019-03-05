@@ -1,0 +1,5 @@
+$main$
+#[input_root(.)]
+#[output_root(.)]
+
+compile test.geml to test.html

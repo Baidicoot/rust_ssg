@@ -1,0 +1,22 @@
+[package]
+name = "rust_ssg"
+version = "2.1.7"
+authors = ["Aidan Ewart aidanprattewart@gmail.com"]
+edition = "2018"
+
+description = "A simple rust static site generator suite."
+
+documentation = "https://github.com/Baidicoot/geml"
+homepage = "https://github.com/Baidicoot/geml"
+repository = "https://github.com/Baidicoot/geml"
+
+readme = "README.md"
+
+keywords = ["geml", "parser", "markdown", "HTML"]
+
+categorys = ["web-programming", "parser-implementations"]
+
+[dependencies]
+regex = "1"
+lazy_static = "1.2.0"
+geml = "1.1.24"
