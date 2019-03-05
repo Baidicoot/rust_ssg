@@ -22,4 +22,4 @@ categorys = ["web-programming", "parser-implementations"]
 [dependencies]
 regex = "1"
 lazy_static = "1.2.0"
-geml = "1.1.24"
+geml = "1.1.26"

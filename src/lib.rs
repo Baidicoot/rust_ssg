@@ -154,7 +154,7 @@ pub fn compile_single_file(content_path: PathBuf, template_path: PathBuf, output
     for single_geml in deserialized_geml.gemls.iter() {
         let replacer = reg(&format!(r"\${}\$", single_geml.key));
 
-        working_file = replacer.replace_all(&working_file, &|c: &Captures| {
+        working_file = replacer.replace_all(&working_file, &|a: &Captures| {
             &single_geml.value
         }).to_string();
     }

@@ -8,7 +8,7 @@ dependencies = [
 
 [[package]]
 name = "geml"
-version = "1.1.24"
+version = "1.1.26"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 dependencies = [
  "lazy_static 1.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -49,7 +49,7 @@ dependencies = [
 name = "rust_ssg"
 version = "2.1.7"
 dependencies = [
- "geml 1.1.24 (registry+https://github.com/rust-lang/crates.io-index)",
+ "geml 1.1.26 (registry+https://github.com/rust-lang/crates.io-index)",
  "lazy_static 1.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "regex 1.1.2 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
@@ -74,7 +74,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [metadata]
 "checksum aho-corasick 0.6.10 (registry+https://github.com/rust-lang/crates.io-index)" = "81ce3d38065e618af2d7b77e10c5ad9a069859b4be3c2250f674af3840d9c8a5"
-"checksum geml 1.1.24 (registry+https://github.com/rust-lang/crates.io-index)" = "bec28fbb51b74722cb5efc908e80225e0f88ed3644aac69290e907c193b6a681"
+"checksum geml 1.1.26 (registry+https://github.com/rust-lang/crates.io-index)" = "c1c4cca4131947405f3a42596dccfd0dd725d8a7d4464397ef2a3573c86fae39"
 "checksum lazy_static 1.3.0 (registry+https://github.com/rust-lang/crates.io-index)" = "bc5729f27f159ddd61f4df6228e827e86643d4d3e7c32183cb30a1c08f604a14"
 "checksum memchr 2.2.0 (registry+https://github.com/rust-lang/crates.io-index)" = "2efc7bc57c883d4a4d6e3246905283d8dae951bb3bd32f49d6ef297f546e1c39"
 "checksum regex 1.1.2 (registry+https://github.com/rust-lang/crates.io-index)" = "53ee8cfdddb2e0291adfb9f13d31d3bbe0a03c9a402c01b1e24188d86c35b24f"

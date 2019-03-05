@@ -2,4 +2,4 @@ $main$
 #[input_root(.)]
 #[output_root(.)]
 
-compile test.geml to test.html
+compile test.geml with template.html to test.html
