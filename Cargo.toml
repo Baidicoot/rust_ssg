@@ -12,6 +12,9 @@ repository = "https://github.com/Baidicoot/geml"
 
 readme = "README.md"
 
+license = "MIT"
+license-file = "LISCENSE"
+
 keywords = ["geml", "parser", "markdown", "HTML"]
 
 categorys = ["web-programming", "parser-implementations"]
