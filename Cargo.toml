@@ -6,9 +6,9 @@ edition = "2018"
 
 description = "A simple rust static site generator suite."
 
-documentation = "https://github.com/Baidicoot/geml"
-homepage = "https://github.com/Baidicoot/geml"
-repository = "https://github.com/Baidicoot/geml"
+documentation = "https://github.com/Baidicoot/rust_ssg"
+homepage = "https://github.com/Baidicoot/rust_ssg"
+repository = "https://github.com/Baidicoot/rust_ssg"
 
 readme = "README.md"
 
